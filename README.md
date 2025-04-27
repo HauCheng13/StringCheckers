@@ -1,6 +1,6 @@
 # Interactive String Checkers
 
-**GitHub Page**: 
+**GitHub Page**: https://haucheng13.github.io/StringCheckers/
 
 String checkers that i have done, word count and palindrome checker
 
